@@ -4,6 +4,9 @@
 
 打开即用，无需安装、无需联网、不上传任何数据。
 
+**在线使用** → <https://sad-bee666.github.io/valorant-sens/>
+**仓库地址** → <https://github.com/Sad-Bee666/valorant-sens>
+
 ```
 index.html    ← 全部内容（HTML + CSS + JS，约 95 KB）
 ```
