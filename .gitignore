@@ -1,0 +1,12 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.log
+_sim*.cjs
+_chk.js
